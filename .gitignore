@@ -1,0 +1,34 @@
+#  Virtual environment
+llmenv/
+venv/
+.env/
+env/
+.venv/
+
+#  Python cache & build files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+#  Jupyter/Colab
+.ipynb_checkpoints/
+*.ipynb_save
+*.ipynb_checkpoints
+*.ipynb_checkpoints/*
+
+#  VS Code / PyCharm
+.vscode/
+.idea/
+
+#  System files
+.DS_Store
+Thumbs.db
+
+#  Logs
+*.log
+logs/
+wandb/

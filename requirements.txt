@@ -1,0 +1,28 @@
+# Core ML and Audio Libraries
+torch==2.4.0
+torchvision==0.19.0
+torchaudio==2.4.0
+
+# Hugging Face ecosystem
+transformers==4.44.2
+datasets==2.20.0
+accelerate==0.34.2
+
+# Audio processing
+librosa==0.10.2.post1
+soundfile==0.12.1
+audiomentations==0.38.0
+
+# Utilities
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.2
+ipython==8.27.0
+
+# Experiment tracking
+wandb==0.17.7
+
+# Development tools
+pathlib==1.0.1
+
+ipywidgets
